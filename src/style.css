@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+.video-wrapper {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.video-wrapper {
+    object-fit: contain;
+}
